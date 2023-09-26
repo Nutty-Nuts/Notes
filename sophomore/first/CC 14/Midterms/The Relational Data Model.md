@@ -44,8 +44,26 @@ We study the Relational Model because of the following:
 #### What is a Relation Domain?
 - Relation Domain is the set of allowable values for one or more attributes.
 #### What are the Domain Types?
+- The Domain Types are the following:
+	1. Numeric Type
+	2. Date and Time Type
+	3. String Type
+	4. Spatial Data Type
+	5. JSON Data Type
 ## Relation Attributes
+#### What is an **Attribute?**
+- **Attribute** is a named column of a relation
 ## Relation Tuples
+#### What are **Tuples?**
+- **Tuple** is a rows of a table which contains a single record for that Relation
 ## Degree of a Relation
+#### What is **Degree of Relation?**
+- **Degree** or **Arity of a Relation** is the number of Attributes it contains
 ## Cardinality of a Relation
+#### What is **Cardinality of a Relation?**
+- **Cardinality of a Relation** is the number of Tuple it contains.
 ## Relation Schema and Relation Instance
+#### What is a **Relation Schema?**
+- **Relation Schema** specifies the name of the relation, plus name, and the domain type of each column
+#### What is a **Relation Instance?**
+- **Relation Instance** is a relation instance of the relation schema
