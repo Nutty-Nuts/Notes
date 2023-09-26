@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Things",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "headings"
+  ]
+}

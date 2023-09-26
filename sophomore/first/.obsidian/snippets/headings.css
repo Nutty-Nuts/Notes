@@ -1,0 +1,17 @@
+.markdown-preview-view h5 {
+  margin-top: 0rem !important;
+}
+
+.markdown-preview-view h4 {
+  margin-top: 1rem !important;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2 {
+  margin-top: 2rem !important;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h5 {
+  margin-bottom: -1rem !important;
+}
