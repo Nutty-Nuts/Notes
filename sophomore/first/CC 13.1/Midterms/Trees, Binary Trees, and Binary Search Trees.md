@@ -35,3 +35,9 @@
 ## Binary Tree
 #### What is a Binary Tree?
 - Binary Tree is a type of tree where each node can only have a maximum of 2 children.
+## Complete Binary Tree
+#### What is a Complete Binary Tree?
+- Complete Binary Tree is a type of tree where each node can only have a maximum of 2 children, have all levels filled except for the last level, and are filled from left to right.
+## Binary Search Trees
+#### What is a Binary Search Tree?
+- Binary Search Tree is a type of tree where each node can only have a maximum of 2 children, and where the left child is less than the given node and the right child is greater than the given node.
