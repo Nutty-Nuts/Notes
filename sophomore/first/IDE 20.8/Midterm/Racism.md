@@ -3,6 +3,7 @@
 ---
 #### What is Racism?
 - Racism is a cultural and historical concept
+- Racism insists that Human biology divides people into different races
 #### When was Racism coined or first used?
 - Racism was coined in 1902 by a white genera named Richard Henry Pratt
 
@@ -32,3 +33,16 @@
 - Black people are inferior to white people, thus suggesting that slaver and the slave trade were perfectly acceptable institutions
 ## Charles White
 - The white European being the most removed from brute creation, may, on that account, be considered as the most beautiful of the human race. No one will doubt his superiority in intellectual powers; and I believe it will be found that his capacity is naturally superior also of that of every other men
+## John Scattergood
+- If slaver is allowed to end, the Negroes from all parts of the world will flock hither, mix with the natives, spoil the breed of our common people, increase the number of crimes and criminals, and make Britain the sink of all the Earth, for mongrels, vagrants, and vagabonds
+## Sir Harry Johnston
+- The negro in general is a born lave with the natural capacity to toil hard under the hot sun and in unhealthy climates of the torrid zone
+## Dr Robert Know
+- The negro race can only be humanized and civilized by Europeans
+
+# Orientalism
+---
+- Orientalism describes the relationship between Europe and the Orient
+	- Orient was a European invention
+- West is rational, developed, humane, and superior
+- Orient is aberrant, undeveloped and inferior
