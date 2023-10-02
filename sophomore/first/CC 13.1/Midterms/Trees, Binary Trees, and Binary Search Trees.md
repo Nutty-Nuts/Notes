@@ -38,6 +38,29 @@
 ## Complete Binary Tree
 #### What is a Complete Binary Tree?
 - Complete Binary Tree is a type of tree where each node can only have a maximum of 2 children, have all levels filled except for the last level, and are filled from left to right.
+
+> [!info] Detailed Definition
+> A **Complete Binary Tree** is defined as:
+> 1. Root is at the 1st Level and its Children are at the proceeding Level
+> 2. All Nodes except the Leaves have at least 2 Non-Null Children
+> 3. All Leaves or End-Nodes are the same Level
+> 4. All Leaves must be filled from Left-to-Right
+
+> [!faq] Maximum Number of Nodes
+> The formula of Maximum Number of Nodes in a Complete Binary Tree is:
+> ---
+> $$\Large{N = 2^{(h + 1) -1}}$$
+> $\large{let\; N\; be\; max\; no.\; of\; nodes}$
+> $\large{let\; h\; be\; height}$
+
+> [!faq] Maximum Number of Nodes at a Level
+> The formula of Maximum Number of Nodes in a Complete Binary Tree is:
+> ---
+> $$\Large{N = 2^{l}}$$
+> $\large{let\; N\; be\; max\; no.\; of\; nodes}$
+> $\large{let\; h\; be\; height}$
+
+ 
 ## Binary Search Trees
 #### What is a Binary Search Tree?
 - Binary Search Tree is a type of tree where each node can only have a maximum of 2 children, and where the left child is less than the given node and the right child is greater than the given node.
