@@ -130,4 +130,8 @@
 > [!info] Detailed Definition
 > **Deletion with 2 Children** in a Binary Search Tree is performed in the following steps:
 > 1. Node is deleted 
+> 2. Root of the Left Subtree of Node takes the place of Node
+> 3. Go to the Rightmost Node of the Left Subtree
+> 4. Place the Right Subtree of Node on the Rightmost Node of the Left Subtree
 
+# Balancing Binary Search Trees
