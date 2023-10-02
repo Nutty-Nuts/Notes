@@ -79,6 +79,55 @@
 - Breadth-First Traversal traverses from left-to-right and top-to-bottom
 ## Depth-First Traversal - Preorder
 #### What is Preorder Traversal?
-- Preoder Traversal is a depth-first traversal technique where it: visits a node, moves to the left node, visits the left node, repeat until no more left node, back up until a right node can be found 
+- Preoder Traversal is a depth-first traversal technique.
+
+> [!info] Detailed Definition
+> A **Preoder Traversal** performs the following recursive operation in each node:
+> 1. Visit the Node
+> 2. Go to the Left Child
+> 3. Go to the Right Child
 ## Depth-First Traversal - Inorder
+#### What is Inorder Traversal?
+- Inorder Traversal is a depth-first traversal technique.
+- Inorder Traversal results in a list of nodes arranged in an ascending order.
+
+> [!info] Detailed Definition
+> A **Inorder Traversal** performs the following recursive operation in each node:
+> 1. Go to the Left Child
+> 2. Visit the Node
+> 3. Go to the Right Child
 ## Depth-First Traversal - Postorder
+#### What is Postorder Traversal?
+- Postorder Traversal is a depth-first traversal technique.
+
+> [!info] Detailed Definition
+> A **Postorder Traversal** performs the following recursive operation in each node:
+> 1. Go to the Left Child
+> 2. Go to the Right Child
+> 3. Visit the Node
+
+# Binary Search Tree Insertion
+---
+#### How are nodes inserted in a Binary Search Tree?
+- Insertion in a Binary Search Tree is performed by the following:
+
+> [!info] Detailed Definition
+> **Insertion** in a Binary Search Tree is performed in the following steps:
+> 1. Is node greater than the current node? 
+> 	- If so, then move to the right node
+> 	- If not, then move to the left node
+> 2. Repeat until a dead end is reached
+> 3. Place the new node on the dead end
+
+# Binary Search Tree Deletion
+#### How are nodes deleted when a node has no children?
+- Nodes are immediately deleted when it has no children
+#### How are nodes deleted when a node has one child?
+- Nodes are deleted and its child will take its place
+#### How are nodes deleted when a node has 2 children?
+- Nodes are deleted by performing the delete-by-merging process
+
+> [!info] Detailed Definition
+> **Deletion with 2 Children** in a Binary Search Tree is performed in the following steps:
+> 1. Node is deleted 
+
