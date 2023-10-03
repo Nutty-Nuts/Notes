@@ -29,7 +29,30 @@
 - Quantification expresses the extent to which a predicate is true over a range of elements
 	- Quantifier in Quantification are: all, some, many, none, and few
 ## Types of Quantification
-#### 1. What is Universal Quantification?
+#### What is Universal Quantification?
 - Universal Quantification is where a predicate is true for every element under consideration 
-#### 2. What is Existential Quantification?
+	- Universal Quantifier is represented as $\Large{\forall}$
+ 
+ > [!note]+ Information
+> 
+> | Statement               | When True?                         | When False? |
+> | ----------------------- | ---------------------------------- | ----------- |
+> | $\large{\forall xP(x)}$ | $\large{P(x)}$ is true for every $x$ | There is an $x$ for which $\large{P(x)}$ is false            |
+#### What is Existential Quantification?
 - Existential Quantification is where one or more element under consideration has a predicate that is true
+	- Existential Quantifier is represented as $\Large\exists$
+
+> [!note]+ Information
+> 
+> | Statement               | When True?                         | When False? |
+> | ----------------------- | ---------------------------------- | ----------- |
+> | $\large{\exists xP(x)}$ | There is an $x$ for which $\large{P(x)}$ is false | $\large{P(x)}$ is true for every $x$            |
+
+> [!success] Example
+> **PROBLEM** What is the truth value of the quantification of $\large{\forall xP(X)}$, where the domain consists of all real numbers?
+> 
+> Let $P(x)$ be the statement $x + 1  > x$
+> 
+> SOLUTION $large{\forall xP(x)}
+> 1. $\textbf{Q(1, 2):}\;1 = 2 + 3,$ is false
+> 2. $\textbf{Q(3, 0):}\;3 = 0 + 3,$ is true
