@@ -65,5 +65,12 @@ We study the Relational Model because of the following:
 ## Relation Schema and Relation Instance
 #### What is a **Relation Schema?**
 - **Relation Schema** specifies the name of the relation, plus name, and the domain type of each column
+
+> [!success]+ Example
+> Student(StudentNo: string, Name: string, Gender: string, Degree: string)
 #### What is a **Relation Instance?**
 - **Relation Instance** is a relation instance of the relation schema
+
+> [!success]+ Example
+> <“Joe Smith”, “606 567 333”, “Male”, “BSCS”>
+> <“Ara Brown”, “321 638 999”, “Female”, “BSIT”>
