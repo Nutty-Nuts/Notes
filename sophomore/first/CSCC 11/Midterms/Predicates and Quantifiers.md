@@ -74,3 +74,16 @@
 > - For every negative real number $x,\; x^2 > 0$
 > - The square of a negative number is positive
 > - $\large{\forall x(x < 0 \rightarrow x^2 > 0)}$
+
+> [!tip] Tip
+> The restriction of a universal quantification is the same as the universal quantification of a conditional statement
+> 
+>For instance, $\large{\forall x < 0(x^2 > 2)}$
+>**can be expressed as** $\large{\forall x(x < 2 \rightarrow x^2 > 0)}$
+
+> [!tip] Tip
+> The restriction of an existential quantification is the same as the existential quantification of a conjunction
+> 
+>For instance, $\large{\exists z > 0(z^2 = 2)}$
+>**can be expressed as** $\large{\exists z(z > 0 \land z^2 = 2)}$
+
