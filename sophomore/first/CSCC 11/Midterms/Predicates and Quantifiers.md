@@ -87,3 +87,22 @@
 >For instance, $\large{\exists z > 0(z^2 = 2)}$
 >**can be expressed as** $\large{\exists z(z > 0 \land z^2 = 2)}$
 
+# Nested Quantifiers
+---
+#### What are Nested Quantifiers?
+- Nested Quantifiers are quantifiers place inside another Quantifier
+
+> [!info] Note
+> The order of quantifiers is important if the nested quantifiers are mixed, otherwise, order of quantifiers is irrelevant
+
+> [!success]+ Example
+> Assume that the domain for the variables $x$ and $y$ consist of all real numbers
+> 
+> The statement $\large{\forall x \forall y(x + y = y + x)}$
+> **means that** $x + y = y + x$ for all real numbers of $x$ and $y$
+
+> [!success]+ Example
+> Assume that the domain for the variables $x$ and $y$ consist of all real numbers
+> 
+> The statement $\large{\forall x \exists y(x + y = 0)}$
+> **means that** for every real number $x$ there is a real number $y$ such that $x + y = 0$
