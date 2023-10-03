@@ -70,4 +70,7 @@
 
 > [!success]+ Example
 > $\large{\forall x < 0(x^2 > 0)}$ states that
-> - For every real number $x$ with $x < 0,$ $x^2 > 0$
+> - For every real number $x$ with $x < 0,$ we have $x^2 > 0$
+> - For every negative real number $x,\; x^2 > 0$
+> - The square of a negative number is positive
+> - $\large{\forall x(x < 0 \rightarrow x^2 > 0)}$
