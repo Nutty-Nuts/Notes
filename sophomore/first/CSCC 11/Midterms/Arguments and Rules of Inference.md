@@ -11,17 +11,26 @@
 # Rules of Inference
 ---
 $$
-\documentclass[10pt]{article}
-
-\usepackage{newtxtext}
-\usepackage{newtxmath}
+\documentclass{article}
+\usepackage{amsmath}
 
 \begin{document}
-  $\begin{array}{rl}
-    & p \\
-    & p \to q \\
-    \cline{2-2}
-    \therefore & q
-  \end{array}$
+
+\section{Symbolic Argument}
+
+\textbf{Premise 1:} $P \rightarrow Q$
+
+\textbf{Premise 2:} $Q \rightarrow R$
+
+\textbf{Conclusion:} $P \rightarrow R$
+
+\section{Proof}
+
+\begin{align*}
+1. & \quad P \rightarrow Q & \text{Premise 1} \\
+2. & \quad Q \rightarrow R & \text{Premise 2} \\
+3. & \quad \frac{P}{\therefore R} & \text{Modus Ponens on (1) and (2)}
+\end{align*}
+
 \end{document}
 $$
