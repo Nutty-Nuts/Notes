@@ -4,6 +4,7 @@
 #### What is **Encapsulation?**
 - **Encapsulation** is an Object-Oriented Programming concept that refers to the bundling of data and methods that operate on that data within a single unit called a class.
 - **Encapsulation** is a way of hiding implementation details of a class and only exposing a public interface that can be used to interact with the class
+- **Encapsulation** is to make sure that sensitive data is hidden from the users.
 
 > [!info] Source or Reference
 > *CSCC 20 Module 2, p.3*
