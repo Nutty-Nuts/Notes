@@ -20,28 +20,27 @@
 #### What is **Single Inheritance?**
 - **Single Inheritance** is where a class inherits or extends from a parent class.
 
-```java
-class Animal {
-	public void eat() {
-		System.out.println("Eating...");
-	}
-}
-
-// Dog inherits its methods and attributes to a single class, Animal;
-class Dog extends Animal {
-	public void bark() {
-		System.out.println("Barking...");
-	}
-}
-
-class Main {
-	public static void main(String[] args) {
-		Dog dog = new Dog();
-		dog.bark(); // prints "Barking..."
-		dog.eat();  // prints "Eating..."
-	}
-}
-```
+> [!success]+ Example
+> 
+> ```java
+> class Animal {
+> 	public void eat()
+> 		System.out.println("Eating...");
+> 	}
+> }
+> class Dog extends Animal {
+> 	public void bark() {
+> 		System.out.println("Barking...");
+> 	}
+> }
+> class Main {
+>	public static void main(String[] args) {
+>		Dog dog = new Dog();
+>		dog.bark();
+>		dog.eat();
+>	}
+> }
+> ```
 
 > [!info] Source or Reference
 > *CSCC 20 Module 1, p.6*
@@ -49,6 +48,28 @@ class Main {
 #### What is **Multilevel Inheritance**
 - **Multilevel Inheritance** is where a class inherits from a subclass of another class.
 
+> [!success]+ Example
+> 
+> ```java
+> class Animal {
+> 	public void eat()
+> 		System.out.println("Eating...");
+> 	}
+> }
+> class Dog extends Animal {
+> 	public void bark() {
+> 		System.out.println("Barking...");
+> 	}
+> }
+> class Pu
+> class Main {
+>	public static void main(String[] args) {
+>		Dog dog = new Dog();
+>		dog.bark();
+>		dog.eat();
+>	}
+> }
+> ```
 ```java
 class Animal {
 	public void eat() {
