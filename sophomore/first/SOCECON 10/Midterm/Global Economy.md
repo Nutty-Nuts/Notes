@@ -42,4 +42,31 @@
 - Bretton Woods System was first discussed in a 3 week meeting in July 1944 at the Mount Washington Hotel in Bretton Woods, New Hampshire
 #### What was the focus or background of the Bretton Woods System?
 - Bretton Woods System aimed to reduce trade barriers and creating conditions necessary for the free flow of money and investment
-#### What were the 5
+#### What were the 5 Key Elements of the Bretton Woods System?
+1. Each participating state would establish a par value for its currency expressed in terms of gold
+2. The official monetary authority of each country would agree to exchange its own currency for those of other countries at the established exchange rates, plus or minus one percent margin
+3. International Monetary Fund to establish, stabilize, and oversee exchange rates
+4. Member states agreed to eliminate all restrictions on the use of its currency for international trade
+5. Entire system was based on the US dollar
+#### When did the Bretton Woods System die?
+- Bretton Woods System died on August 15, 1971 due to President Richard Nixon removing US off the gold standard cause devaluation of the US dollar
+## John Maynard Keynes
+#### Who is John Maynard Keynes?
+- John Maynard Keynes was a British Economist that believed that an economic crises occurs not because of the absence of money but rather the absence of the flow of money
+- John Maynard Keynes influenced the Bretton Woods System
+## Kyensianism
+#### What is Kyensianism?
+- Kyensianism is a system government intervention in the economy can help mitigate economic downturns and stabilize a country's economic performance
+#### When was the high point of Kyensianism?
+- The High Point of Kyensianism was in the Mid 1940s to the early 1970s
+#### Who criticized Kyensianism?
+- Friedrich Hayek and Milton Friedman argued that government intervention in economies distrt the proper function of the market
+## Financial Institutions
+#### What are the Financial Institutions of the World?
+- International Bank for Reconstruction and Development or World Bank which was responsible for funding postwar reconstruction projects
+- International Monetary Fund which is the global lender of last resort to prevent individual countries from spiraling into credit crises
+#### Who controls these Financial Institutions?
+- World Bank and IMF is disproportionately controlled by rich core countries, make loans to countries in the periphery and semi-periphery
+## Neocolonialism
+#### What is Neocolonialism?
+- Neocolonialism is a global power relationship that involves economic exploitation by multinational corporations
