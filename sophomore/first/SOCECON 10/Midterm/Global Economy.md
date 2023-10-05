@@ -34,3 +34,12 @@
 #### What is the Silk Road?
 - Silk Road is an ancient network of pathways that spanned from China, the Middle East, and Europe and is the oldest known international trade route
 	- Silk Road, despite being a international trade route, was not global since it possesses no ocean routes that reaches the American continent
+## One Belt One Road
+#### What is the One Belt One Road?
+- One Belt One Road is a Chinese project that aims to create a global trade route that was as successful or more successful than the silk road
+## Bretton Woods System
+#### When was Bretton Woods System first discussed?
+- Bretton Woods System was first discussed in a 3 week meeting in July 1944 at the Mount Washington Hotel in Bretton Woods, New Hampshire
+#### What was the focus or background of the Bretton Woods System?
+- Bretton Woods System aimed to reduce trade barriers and creating conditions necessary for the free flow of money and investment
+#### What were the 5
