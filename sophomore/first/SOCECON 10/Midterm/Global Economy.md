@@ -78,3 +78,7 @@
 - Core countries are dominant capitalist countries characterized by high levels of industrialization and urbanization
 - Peripheral Countries are dependent on core countries for capital and have very little industrialization and urbanization
 - Semi-peripheral Countries are less developed than core countries but are more developed than peripheral nations
+## Globalization Effects on National Governments
+#### How does globalization affect Governments?
+- National Governments became more connected and interdependent economically, politically, socially
+- External Pres
