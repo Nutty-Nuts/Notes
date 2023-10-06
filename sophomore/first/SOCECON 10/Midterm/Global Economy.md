@@ -81,4 +81,16 @@
 ## Globalization Effects on National Governments
 #### How does globalization affect Governments?
 - National Governments became more connected and interdependent economically, politically, socially
-- External Pres
+- External Pressures to compel conformity to global standards
+- Bestowing legitimacy on a state government is an important function of globalization
+- Internal pressures for change come from citizens and other state actors such as institutions and NGOs
+## World Governance Indicators
+#### What are World Governance Indicators?
+- World Governance Indicators are a set of composite indicators governance published by World Bank
+#### What are the Size Dimensions of Governance according to the WGI?
+- Voice and Accountability 
+- Political Stability and Absence of Violence or Terrorisnm
+- Government Effectiveness
+- Regulatory Quality
+- Rule of Law
+- Control of Corruption
