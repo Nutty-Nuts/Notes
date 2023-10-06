@@ -70,3 +70,11 @@
 ## Neocolonialism
 #### What is Neocolonialism?
 - Neocolonialism is a global power relationship that involves economic exploitation by multinational corporations
+
+## Wallerstein's World Systems Theory
+#### What is Wallerstein's World Systems Theory?
+- Wallerstein's World systems Theory suggests that the prosperity of some nations and the poverty and dependency of other countries is intentional as a result of the global economic system
+#### What are the Forms of Economic Equality?
+- Core countries are dominant capitalist countries characterized by high levels of industrialization and urbanization
+- Peripheral Countries are dependent on core countries for capital and have very little industrialization and urbanization
+- Semi-peripheral Countries are less developed than core countries but are more developed than peripheral nations
