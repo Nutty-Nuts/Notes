@@ -32,4 +32,18 @@
 #### What is Digital Divide?
 - Digital Divide refers to the gap or disparity in access to and use of digital technologies and the internet between different groups of people or communities
 #### What is an Example of Digital Divide?
-- Broadband Internet access is a basic necessity that only 35% of the population in developing coutnies 
+- Broadband Internet access is a basic necessity that only 35% of the population in developing countries has access to (80% in advanced economies).
+#### What causes Digital Divide?
+1. Political Power
+2. Economic Dependency
+3. Importation or Exportation of Resources
+
+## Collier's Four Traps
+#### What is the Conflict Trap?
+- Conflict Trap is where a region or country becomes caught in a cycle of conflict which makes it difficult to achieve peace and stability which prevent the country or region from developing
+#### What is the Natural Resource Trap?
+- Natural Resource Trap is where a country experience economic and political problems despite having an abundance of natural resources
+#### What is the Trap of being Landlocked with Bad Neighbors?
+- Trap of being Landlocked with Bad Neighbors is where a country's surrounding neighbors pose a threat to security, economic, or political aspects of a country which may hamper development and stability
+#### What is the Bad Governance Trap?
+- Bad Governance Trap is a where a country or region has a bad government with bad policies that inhibits the growth of the economy and potentially destroy the economy
