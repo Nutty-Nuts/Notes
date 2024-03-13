@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCC 31/Computer Systems.md",
+                "file": "CSCC 31/Instruction Set Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc12b69a08207993",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/Computer Systems.md",
+                "file": "CSCC 31/Instruction Set Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/Computer Systems.md",
+                "file": "CSCC 31/Instruction Set Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/Computer Systems.md"
+                "file": "CSCC 31/Instruction Set Architecture.md"
               }
             }
           }
@@ -148,6 +149,12 @@
   },
   "active": "cdc7978a29fda20a",
   "lastOpenFiles": [
+    "CSCC 31/Benchmarking.md",
+    "CSCC 31/Memory Hierarchy.md",
+    "CSCC 31/Trends in Computer Architecture.md",
+    "CSCC 31/OS Assembly Language.md",
+    "CSCC 31/Instruction Set Architecture.md",
+    "CSCC 31/Computer Systems.md",
     "ENGL 5/Multicultural Communication.md",
     "ENGL 5/Oral Presentation in the Workplace.md",
     "ENGL 5/Modes of Communication.md",
@@ -159,7 +166,6 @@
     "CSCC 31/Microarchitecture Design.md",
     "CSCC 31/Introduction to Computer Organization.md",
     "CSCC 31/Digital Logic Level.md",
-    "CSCC 31/Computer Systems.md",
     "CSCC 31",
     "CSCC 13/Computational and Asymptotic Complexity.md",
     "CSCC 13/Brute Force Algorithm.md",
