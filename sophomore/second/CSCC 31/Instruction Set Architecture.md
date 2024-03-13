@@ -50,7 +50,6 @@ Part: Midterms
 
 # REGISTERS
 ---
-
 > [!info] Info
 > There are some registers that are **visible at the Instruction Set Architecture Level** or ISA Level that is used to control the execution of the program, hold temporary results, and etc.
 
@@ -80,13 +79,52 @@ Part: Midterms
 ---
 - Addressing is to specifying where the operands of an operation is are located
 	- Address Fields should follow a specific format
-	- Address Modes are the differennt ways to interpret address fields 
+	- Address Modes are the different ways to interpret Address Fields to find the operands
 
 ## Immediate Addressing
 
+> [!tip] Fact
+> Immediate Addressing is the simplest way of specifying an operand
+
+> [!success] Advantages
+> Does not require extra memory reference to fetch the operand
+
+> [!failure] Disadvantages
+> Only constants can be supplied this way
+
+- Immediate Addressing is a type of addressing where the operand is automatically fetched from memory at the same time the instruction itself is fetched. *TLDR; part of the instruction contains the operand itself*
+
+## Direct Addressing
+
+> [!danger] Restriction
+> The instruction will always access exactly the same memory location which is why it is used to access global variables
+> > [!info] Global Variables 
+> > Global Variables are variables whose address is known at compile time
+
+- Direct Addressing is a type of addressing that  specifies an operand in memory by giving its full address
+
+## Register Addressing
+- Register Addressing is a type of addressing that specifies a register instead of a memory locations.
+	- Most common addressing mode due to the speed of registers
+
+## Register Indirect Addressing
+- Register Indirect Addressing is a type of addressing were the operand being specified comes from memory but the address is not directly specified in the instruction
+### Pointer
+
+> [!success] Advantages
+> Register Indirect Addressing can reference memory without paying the price of having a full memory address in the instruction
+
+- Pointer is an address contained in a register
 
 # INSTRUCTION TYPES
 ---
+## Data Movement Instructions
+- Data Movement Instructions are a type of inst
+## Dyadic Operations
+- Dyadic Operations are a type of instruction where two operands are combined to produce a result
+## Monadic Operations
+- Monadic Operations are a type of instruction where it uses one operation to produce a result
+## Other Instruction Types
 
 # FLOW OF CONTROL
 ---
