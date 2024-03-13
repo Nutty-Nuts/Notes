@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdc7978a29fda20a",
+            "id": "5b54262520dd8192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CSCC 31/Instruction Set Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f53b2d823200b89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCC 31/Microarchitecture Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04057b901df8f64c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCC 31/Computer Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,14 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdc7978a29fda20a",
+  "active": "5b54262520dd8192",
   "lastOpenFiles": [
+    "CSCC 31/Microarchitecture Design.md",
+    "CSCC 31/Instruction Set Architecture.md",
+    "CSCC 31/Computer Systems.md",
+    "CSCC 31/Introduction to Computer Organization.md",
     "CSCC 31/Benchmarking.md",
     "CSCC 31/Memory Hierarchy.md",
     "CSCC 31/Trends in Computer Architecture.md",
     "CSCC 31/OS Assembly Language.md",
-    "CSCC 31/Instruction Set Architecture.md",
-    "CSCC 31/Computer Systems.md",
     "ENGL 5/Multicultural Communication.md",
     "ENGL 5/Oral Presentation in the Workplace.md",
     "ENGL 5/Modes of Communication.md",
@@ -163,8 +189,6 @@
     "HIST 3/Republic Act No. 1425.md",
     "HIST 3/Chapter 1 - Introduction.md",
     "HIST 3",
-    "CSCC 31/Microarchitecture Design.md",
-    "CSCC 31/Introduction to Computer Organization.md",
     "CSCC 31/Digital Logic Level.md",
     "CSCC 31",
     "CSCC 13/Computational and Asymptotic Complexity.md",
