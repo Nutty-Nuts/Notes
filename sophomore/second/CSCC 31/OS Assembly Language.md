@@ -29,4 +29,7 @@ Part: Midterms
 
 # ASSEMBLY LANGUAGE LEVEL
 ---
-- 
+- Assembly Language Level translates programs into executable binary program rather than interpreting programs
+## Properties
+- Assembly Language Level gives programmers full access to all the features and instructions available on the target machine
+- Assembly Language can only run on one family of machines
