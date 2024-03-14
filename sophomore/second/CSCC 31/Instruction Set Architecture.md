@@ -26,7 +26,6 @@ Part: Midterms
 # INSTRUCTION ARCHITECTURE  DESIGN
 ---
 ## Backwards Compatibility
-
 > [!note]
 > Backwards Compatibility is a **massive consideration** when designing new machines or architectures
 
@@ -62,7 +61,6 @@ Part: Midterms
 - General-Purpose Registers are registers that hold key local variable and intermediate results of calculations
 
 ## Condition Codes
-
 > [!info] Info
 > Condition Codes are used in comparison and conditional branch instructions
 
@@ -82,7 +80,6 @@ Part: Midterms
 	- Address Modes are the different ways to interpret Address Fields to find the operands
 
 ## Immediate Addressing
-
 > [!tip] Fact
 > Immediate Addressing is the simplest way of specifying an operand
 
@@ -95,7 +92,6 @@ Part: Midterms
 - Immediate Addressing is a type of addressing where the operand is automatically fetched from memory at the same time the instruction itself is fetched. *TLDR; part of the instruction contains the operand itself*
 
 ## Direct Addressing
-
 > [!danger] Restriction
 > The instruction will always access exactly the same memory location which is why it is used to access global variables
 > > [!info] Global Variables 
@@ -119,12 +115,38 @@ Part: Midterms
 # INSTRUCTION TYPES
 ---
 ## Data Movement Instructions
-- Data Movement Instructions are a type of inst
+> [!example]
+>  - LOAD is an instruction that moves data from memory to register
+> - STORE is an instruction that moves data from register to memory
+> - MOVE is an instruction that moves data from register to register
+
+- **Data Movement Instructions** are a type of instructions that moves data from one location to another within the computer
+
 ## Dyadic Operations
-- Dyadic Operations are a type of instruction where two operands are combined to produce a result
+> [!example]
+> - Addition and Subtration
+> - Boolean Instruction *(e.g. AND, OR, NOT, XOR, NAND)*
+
+- **Dyadic Operations** are a type of instruction where two operands are combined to produce a result
+
 ## Monadic Operations
-- Monadic Operations are a type of instruction where it uses one operation to produce a result
+> [!example] 
+> - Shifts move bits left or right and bits shifted past the end are lost
+> - Rotates move bits left or right and bits shifted  past the end are moved to the opposite end
+
+- **Monadic Operations** are a type of instruction where it uses one operation to produce a result
+
 ## Other Instruction Types
 
 # FLOW OF CONTROL
 ---
+- Flow of Control refers to the sequence in which instructions are executed dynamically during program execution
+## Branches
+
+## Procedures
+
+## Co-routines
+
+## Traps
+
+## Interrupts
