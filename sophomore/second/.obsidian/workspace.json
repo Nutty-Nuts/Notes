@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb33ae335dac4292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCC 31/OS Assembly Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md",
+                "file": "CSCC 31/OS Assembly Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md",
+                "file": "CSCC 31/OS Assembly Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md"
+                "file": "CSCC 31/OS Assembly Language.md"
               }
             }
           }
@@ -171,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b54262520dd8192",
+  "active": "cb33ae335dac4292",
   "lastOpenFiles": [
-    "CSCC 31/Microarchitecture Design.md",
     "CSCC 31/Instruction Set Architecture.md",
+    "CSCC 31/Microarchitecture Design.md",
     "CSCC 31/Computer Systems.md",
     "CSCC 31/Introduction to Computer Organization.md",
     "CSCC 31/Benchmarking.md",

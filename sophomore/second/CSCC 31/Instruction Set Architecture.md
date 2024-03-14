@@ -150,6 +150,9 @@ Part: Midterms
 - Co-routines are procedures that call each other to transfer control
 ## Traps
 - Trap is an automatic procedure call initiated by some condition caused by the program and is usually detected by the hardware of microprogram. *(e.g. overflow, undefined opcode, and etc.)*
-	- Are also 
+	- Are also synchronous
 ## Interrupts
 - Interrupts are changes in flow of control caused not by the running program but by something else, usually related to input and output
+
+## Transparency
+- Transparency is where some actions and code run but once finished, returns to the state of the computer before the interrupt occurred
