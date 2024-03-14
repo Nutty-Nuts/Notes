@@ -2,5 +2,8 @@
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "textFontFamily": "Roboto",
-  "monospaceFontFamily": "Roboto Mono"
+  "monospaceFontFamily": "Roboto Mono",
+  "enabledCssSnippets": [
+    "columns"
+  ]
 }

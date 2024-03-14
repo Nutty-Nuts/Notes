@@ -6,13 +6,14 @@ Part: Midterms
 ---
 # INSTRUCTION ARCHITECTURE
 ---
+-  Instruction Set Architecture or ISA defines the interface between the compilers and the hardware.
+
 > [!tip] Fact
 > Historically, the Instruction Set Architecture or ISA was developed **before any of the other levels**
 
 > [!note] 
 > Instruction Set Architecture or ISA is commonly referred to as **the architecture** of the machine
 
--  Instruction Set Architecture or ISA defines the interface between the compilers and the hardware.
 
 ## Properties of Instruction Set Architecture Level
 *TODO*
@@ -142,11 +143,13 @@ Part: Midterms
 ---
 - Flow of Control refers to the sequence in which instructions are executed dynamically during program execution
 ## Branches
-
+- Branches jump to different instructions during program execution without regard to the program counter
 ## Procedures
-
+- Procedures is an instruction used to perform some specific tasks and returns control to the caller 
 ## Co-routines
-
+- Co-routines are procedures that call each other to transfer control
 ## Traps
-
+- Trap is an automatic procedure call initiated by some condition caused by the program and is usually detected by the hardware of microprogram. *(e.g. overflow, undefined opcode, and etc.)*
+	- Are also 
 ## Interrupts
+- Interrupts are changes in flow of control caused not by the running program but by something else, usually related to input and output
