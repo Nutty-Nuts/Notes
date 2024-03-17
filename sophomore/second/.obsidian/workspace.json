@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "0712e14851cae7fe",
+        "id": "57153ceeace1f3c4",
         "type": "tabs",
         "children": [
           {
-            "id": "4d3267ad3e1b2fa0",
+            "id": "efd1521444efd217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCC 31/OS Assembly Language.md",
+                "file": "CSCC 31/Memory Hierarchy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "84db6cd33233b4aa",
+            "id": "83b76db8214984fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md",
+                "file": "CSCC 31/Computer Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3c46967b8d35603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCC 31/Computer Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md",
+                "file": "CSCC 31/Memory Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md",
+                "file": "CSCC 31/Memory Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md"
+                "file": "CSCC 31/Memory Hierarchy.md"
               }
             }
           }
@@ -160,13 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84db6cd33233b4aa",
+  "active": "efd1521444efd217",
   "lastOpenFiles": [
-    "CSCC 31/OS Assembly Language.md",
-    "CSCC 31/Instruction Set Architecture.md",
-    "CSCC 31/Benchmarking.md",
-    "CSCC 31/Memory Hierarchy.md",
     "CSCC 31/Computer Systems.md",
+    "CSCC 31/Memory Hierarchy.md",
+    "Computer SyWhat are the advantages of using assembly language?stems.md",
+    "CSCC 31/Instruction Set Architecture.md",
+    "CSCC 31/OS Assembly Language.md",
+    "CSCC 31/Benchmarking.md",
     "CSCC 31/Microarchitecture Design.md",
     "CSCC 31/Trends in Computer Architecture.md",
     "CSCC 31/Introduction to Computer Organization.md",
