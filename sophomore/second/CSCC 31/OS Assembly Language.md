@@ -46,4 +46,11 @@ Part: Midterms
 - Assembly Language can only run on one family of machines
 
 ## Advantages
-- The adva
+- The advantages of using assembly language are as follows
+	- Performance, assembly language will be faster than any high-level language
+	- Access, assembly language grants the programmer complete access to hardware
+## Disadvantages
+- The disadvantages of using assembly language are as follows:
+	- Difficult to write a Program
+	- Writing and Debugging takes Longer
+	- Harder to Maintain

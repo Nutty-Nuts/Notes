@@ -98,6 +98,8 @@ Part: Midterms
 
 ## Register Indirect Addressing
 - Register Indirect Addressing is a type of addressing were the operand being specified comes from memory but the address is not directly specified in the instruction
+### Self Modifying Program 
+- Self Modifying Program is a program that can alter its own instruction by itself
 ### Pointer
 
 > [!success] Advantages

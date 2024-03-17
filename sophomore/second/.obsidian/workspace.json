@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/OS Assembly Language.md",
+                "file": "CSCC 31/Instruction Set Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/OS Assembly Language.md",
+                "file": "CSCC 31/Instruction Set Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/OS Assembly Language.md"
+                "file": "CSCC 31/Instruction Set Architecture.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d3267ad3e1b2fa0",
+  "active": "84db6cd33233b4aa",
   "lastOpenFiles": [
-    "CSCC 31/Instruction Set Architecture.md",
     "CSCC 31/OS Assembly Language.md",
+    "CSCC 31/Instruction Set Architecture.md",
     "CSCC 31/Benchmarking.md",
     "CSCC 31/Memory Hierarchy.md",
     "CSCC 31/Computer Systems.md",
