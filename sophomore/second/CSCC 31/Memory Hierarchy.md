@@ -28,8 +28,11 @@ Part: Midterms
 
 ## Writing to Cache
 ### Write-Through
+- Write-Through cache updates the item in cache and in the main memory
 ### Write Back
+- Write Back cache only updates the copy in cache and is only written back when it is about to be replaced
 ### Write Buffer
+- Write Buffer holds data to be written t that allows the cache to proceed than wait to write data data into memory
 
 
 ## Miss Rate
