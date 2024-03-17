@@ -50,8 +50,26 @@ $$ \textbf{energy\; consumption} = average\; power\; x \; execution\; time$$
 - Die is a small block of semiconducting material cut from a wafer in which a functional circuit is fabricated.
 ## Cost Formulas
 ### Cost of an Integrated Circuit or IC
+- The following is the formula for obtaining the cost of manufacturing a single Integrated Circuit:
 $$ \textbf{cost}_{\textbf{IC}} = \frac{cost_{die} + cost_{testing\; die} + cost_{packaging\; and \; final\; test}}{final\; test\; yield}$$
 ### Cost of a Die
+- The following is the formula for obtaining the cost of manufacturing a single Die:
 $$ \textbf{cost}_{\textbf{die}} = \frac{cost_{wafer}}{dies\; per\; wafer\; \cdot\; die \; yield} $$
 ### Dies Per Wafer
-$$\textbf{dies\; per\; wafer} = \frac{\pi\; \cdot\; (\frac{wafer}{})}{}$$
+- The following is the formula for obtaining the number of dies that can be fabricated from a single wafer
+$$\textbf{dies\; per\; wafer} = \frac{\pi\; \cdot\; (\frac{wafer\; diameter}{2})^2}{die\; area}-\frac{\pi\; \cdot\; wafer\; diameter}{\sqrt{2\; \cdot\; die\; area}}$$
+### Die Yield or Bose-Einstein Formula
+- The following is the formula for the percentage of die yield from a wafer
+$$\textbf{die\; yield} = wafer\; yield\; \cdot\; \frac{1}{(1 + defects\; per\; unit\; area\; \cdot\; die\; area)^N}$$
+# DEPENDABILITY
+---
+# MODULE RELIABILITY
+---
+- Module Reliability is the continuous service accomplishment from a reference initial instance *(or ti time of failure)*
+- Module Reliability is measured in mean time to failure *(MTTF)* or failure per billion hours of operation  *(FIT or Failure in Time)*
+$$ \textbf{MTTF\; 1,000,000,000} = \frac{1,000,000,000}{1,000,000} \; or \; \textbf{1000\; FIT}$$
+## Service Interruption
+- Service Interruption refers to the interruption of services due to failures or on going repairs.
+- Service Interruption is measured as mean time to repair *(MTTR)*
+$$\textbf{MTBF} = MTTF + MTTR$$
+## Module Availability
