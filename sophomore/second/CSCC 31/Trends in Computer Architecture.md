@@ -45,4 +45,13 @@ $$ \textbf{energy\; consumption} = average\; power\; x \; execution\; time$$
 ## Yield
 - Yield refers the percentage of manufactured devices that survive testing procedures.
 ## Wafer
-- 
+- Wafer is a thin slice of a semiconductor, such as silicon, and is used in the fabrication of integrated circuits.
+## Die 
+- Die is a small block of semiconducting material cut from a wafer in which a functional circuit is fabricated.
+## Cost Formulas
+### Cost of an Integrated Circuit or IC
+$$ \textbf{cost}_{\textbf{IC}} = \frac{cost_{die} + cost_{testing\; die} + cost_{packaging\; and \; final\; test}}{final\; test\; yield}$$
+### Cost of a Die
+$$ \textbf{cost}_{\textbf{die}} = \frac{cost_{wafer}}{dies\; per\; wafer\; \cdot\; die \; yield} $$
+### Dies Per Wafer
+$$\textbf{dies\; per\; wafer} = \frac{\pi\; \cdot\; (\frac{wafer}{})}{}$$
