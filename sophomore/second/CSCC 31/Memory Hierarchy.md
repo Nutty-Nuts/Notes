@@ -107,4 +107,36 @@ $$\textbf{average\; memory\; access\; time} = hit\; time + miss\; rate\; \cdot\;
 
 # MEMORY TECHNOLOGY
 ---
+## Measures
+---
+###  Access Time
+- Access Time is the time between when a read is requested until the desired word arrives
+### Cycle Time
+- Cycle Time is the minimum time between unrelated requests to memory
 
+## SRAM Technology
+### Static Random Access Memory or SRAM 
+- Static Random Access Memory or SRAM does not need to be refreshed at every read and uses six transistors per bit to prevent disruption during reads.
+	- SRAM is used in Cache Memory
+## DRAM Technology
+### Dynamic Random Access Memory or DRAM
+- Dynamic Random Access Memory or DRAM requires data to be written back after being read or refereshed
+## Flash Memory
+- Flash Memory is a type of electronically erasable programmable read-only memory that uses transistors to store data.
+
+# DEPENDABILITY IN MEMORY SYSTEMS
+---
+## Soft Errors
+- Soft Errors are errors caused by changes to cell content
+## Hard Errors
+- Hard Errors are permanent changes in operation of memory cells
+
+## Error Handling and Detection
+---
+### Parity Bits
+- Parity Bits are check digits that are used the detect single errors in memory
+- 
+### Error Correcting Codes or ECC
+- Error Correcting Codes or ECC are used to detect multiple errors in memory
+### Chipkill
+- Chipkill is a process that distributes data and ECC information to reconstruct data from failing memory chips and multiple errors
