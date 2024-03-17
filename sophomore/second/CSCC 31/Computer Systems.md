@@ -91,8 +91,8 @@ Part: Preliminary
 
 ## Cache Memory
 - **Cache Memory** is a small amount of fast memory in the primary memory and is used to store information that is frequently used by the computer.
-### Locality Principle
-- Locality Principle brings a referenced word and some of its neighbors from memory to the cache for faster access.
+### Principle of Locality
+- Principle of Locality brings a referenced word and some of its neighbors from memory to the cache for faster access.
 ### Cache Lines
 - Cache Lines are fixed-size blocks that compose the Cache
 # SECONDARY MEMORY

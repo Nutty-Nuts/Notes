@@ -65,14 +65,20 @@ $$\textbf{die\; yield} = wafer\; yield\; \cdot\; \frac{1}{(1 + defects\; per\; u
 ---
 - Dependability analyzes whether a system is operating properly
 ## Service Level Agreements (SLA) or Service Level Objectives (SLO)
-- Service Level Agreements (SLA) or Service Level Objectives (SLO) are guarantees mad
+- Service Level Agreements (SLA) or Service Level Objectives (SLO) are guarantees made internet providers that their network is dependable
+## Service Accomplishment
+- Service Accomplishment is when the specified service is delivered
+## Service Interruption
+- Service Interruption is when the delivered service is different from the SLA
+## Redundancy
+- Redundancy is a method of improving dependability through the use of backup or redundant components.
+$$\textbf{MTTF} = \frac{\frac{MTTF}{n}}{\frac{MTTR}{MTTF}} = \frac{\frac{MTTF^n}{n}}{MTTR}=\frac{MTTF^n}{n\; \cdot\; MTTR}$$
 # MODULE RELIABILITY
 ---
 - Module Reliability is the continuous service accomplishment from a reference initial instance *(or ti time of failure)*
 - Module Reliability is measured in mean time to failure *(MTTF)* or failure per billion hours of operation  *(FIT or Failure in Time)*
 $$ \textbf{MTTF\; 1,000,000,000} = \frac{1,000,000,000}{1,000,000} \; or \; \textbf{1000\; FIT}$$
 ## Service Interruption
-- Service Interruption refers to the interruption of services due to failures or on going repairs.
 - Service Interruption is measured as mean time to repair *(MTTR)*
 $$\textbf{MTBF} = MTTF + MTTR$$
 ## Module Availability
