@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "f53b2d823200b89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCC 31/Microarchitecture Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04057b901df8f64c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCC 31/Computer Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb33ae335dac4292",
             "type": "leaf",
             "state": {
@@ -54,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4274548c200c05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCC 31/Trends in Computer Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/OS Assembly Language.md",
+                "file": "CSCC 31/Trends in Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/OS Assembly Language.md",
+                "file": "CSCC 31/Trends in Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/OS Assembly Language.md"
+                "file": "CSCC 31/Trends in Computer Architecture.md"
               }
             }
           }
@@ -184,16 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb33ae335dac4292",
+  "active": "a4274548c200c05a",
   "lastOpenFiles": [
     "CSCC 31/Instruction Set Architecture.md",
     "CSCC 31/Microarchitecture Design.md",
+    "CSCC 31/OS Assembly Language.md",
     "CSCC 31/Computer Systems.md",
     "CSCC 31/Introduction to Computer Organization.md",
     "CSCC 31/Benchmarking.md",
     "CSCC 31/Memory Hierarchy.md",
     "CSCC 31/Trends in Computer Architecture.md",
-    "CSCC 31/OS Assembly Language.md",
     "ENGL 5/Multicultural Communication.md",
     "ENGL 5/Oral Presentation in the Workplace.md",
     "ENGL 5/Modes of Communication.md",
