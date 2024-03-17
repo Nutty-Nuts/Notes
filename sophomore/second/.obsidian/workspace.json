@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "CSCC 31/OS Assembly Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84db6cd33233b4aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "CSCC 31/Instruction Set Architecture.md",
                 "mode": "source",
                 "source": false
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md",
+                "file": "CSCC 31/OS Assembly Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md",
+                "file": "CSCC 31/OS Assembly Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/Instruction Set Architecture.md"
+                "file": "CSCC 31/OS Assembly Language.md"
               }
             }
           }
@@ -149,13 +161,13 @@
   },
   "active": "4d3267ad3e1b2fa0",
   "lastOpenFiles": [
+    "CSCC 31/Instruction Set Architecture.md",
+    "CSCC 31/OS Assembly Language.md",
     "CSCC 31/Benchmarking.md",
     "CSCC 31/Memory Hierarchy.md",
     "CSCC 31/Computer Systems.md",
     "CSCC 31/Microarchitecture Design.md",
     "CSCC 31/Trends in Computer Architecture.md",
-    "CSCC 31/Instruction Set Architecture.md",
-    "CSCC 31/OS Assembly Language.md",
     "CSCC 31/Introduction to Computer Organization.md",
     "ENGL 5/Multicultural Communication.md",
     "ENGL 5/Oral Presentation in the Workplace.md",
