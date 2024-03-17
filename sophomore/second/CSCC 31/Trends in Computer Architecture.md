@@ -63,6 +63,9 @@ $$\textbf{dies\; per\; wafer} = \frac{\pi\; \cdot\; (\frac{wafer\; diameter}{2})
 $$\textbf{die\; yield} = wafer\; yield\; \cdot\; \frac{1}{(1 + defects\; per\; unit\; area\; \cdot\; die\; area)^N}$$
 # DEPENDABILITY
 ---
+- Dependability analyzes whether a system is operating properly
+## Service Level Agreements (SLA) or Service Level Objectives (SLO)
+- Service Level Agreements (SLA) or Service Level Objectives (SLO) are guarantees mad
 # MODULE RELIABILITY
 ---
 - Module Reliability is the continuous service accomplishment from a reference initial instance *(or ti time of failure)*
@@ -73,3 +76,5 @@ $$ \textbf{MTTF\; 1,000,000,000} = \frac{1,000,000,000}{1,000,000} \; or \; \tex
 - Service Interruption is measured as mean time to repair *(MTTR)*
 $$\textbf{MTBF} = MTTF + MTTR$$
 ## Module Availability
+- Module Availability is the measure of service accomplishment with respect to the alternations between the two states of accomplishment and interruption
+$$\textbf{module\; availability} = \frac{MTTF}{MTTF + MTTR}$$
