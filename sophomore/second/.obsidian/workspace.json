@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86f2df4146e92641",
+        "id": "0712e14851cae7fe",
         "type": "tabs",
         "children": [
           {
-            "id": "5b54262520dd8192",
+            "id": "4d3267ad3e1b2fa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb33ae335dac4292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCC 31/Trends in Computer Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a047ad345fd9e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCC 31/Memory Hierarchy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3003bd0b53f74345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCC 31/Microarchitecture Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d41b71bc8afc7dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCC 31/Computer Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/Memory Hierarchy.md",
+                "file": "CSCC 31/Instruction Set Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/Memory Hierarchy.md",
+                "file": "CSCC 31/Instruction Set Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/Memory Hierarchy.md"
+                "file": "CSCC 31/Instruction Set Architecture.md"
               }
             }
           }
@@ -196,16 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a047ad345fd9e63",
+  "active": "4d3267ad3e1b2fa0",
   "lastOpenFiles": [
-    "CSCC 31/Microarchitecture Design.md",
+    "CSCC 31/Benchmarking.md",
     "CSCC 31/Memory Hierarchy.md",
+    "CSCC 31/Computer Systems.md",
+    "CSCC 31/Microarchitecture Design.md",
     "CSCC 31/Trends in Computer Architecture.md",
     "CSCC 31/Instruction Set Architecture.md",
-    "CSCC 31/Computer Systems.md",
     "CSCC 31/OS Assembly Language.md",
     "CSCC 31/Introduction to Computer Organization.md",
-    "CSCC 31/Benchmarking.md",
     "ENGL 5/Multicultural Communication.md",
     "ENGL 5/Oral Presentation in the Workplace.md",
     "ENGL 5/Modes of Communication.md",

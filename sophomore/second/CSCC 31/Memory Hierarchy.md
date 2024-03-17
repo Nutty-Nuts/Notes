@@ -135,8 +135,10 @@ $$\textbf{average\; memory\; access\; time} = hit\; time + miss\; rate\; \cdot\;
 ---
 ### Parity Bits
 - Parity Bits are check digits that are used the detect single errors in memory
-- 
+- Parity Bits produce aprox. 90,000 errors in three years or one unrecoverable or undetected failure every 17 minutes.
 ### Error Correcting Codes or ECC
 - Error Correcting Codes or ECC are used to detect multiple errors in memory
+- ECC produce aprox. 3,500 errors in three years or one unrecoverable or undetected failure every 7.5 hours.
 ### Chipkill
 - Chipkill is a process that distributes data and ECC information to reconstruct data from failing memory chips and multiple errors
+- Chipkill produce aprox. 6 errors in three years or one unrecoverable or undetected failure every 2 months
