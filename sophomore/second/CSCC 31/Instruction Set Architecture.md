@@ -7,17 +7,11 @@ Part: Midterms
 # INSTRUCTION ARCHITECTURE
 ---
 -  Instruction Set Architecture or ISA defines the interface between the compilers and the hardware.
+	- Instruction Set Architecture or ISA is *developed before any of the other levels*
+	- Instruction Set Architecture or ISA is is referred to as the *architecture* of the machine
 
-> [!tip] Fact
-> Historically, the Instruction Set Architecture or ISA was developed **before any of the other levels**
-
-> [!note] 
-> Instruction Set Architecture or ISA is commonly referred to as **the architecture** of the machine
-
-
-## Properties of Instruction Set Architecture Level
-*TODO*
 ## Defining Document
+---
 - Defining Document is the collection of information that defines the Instruction Set Architecture Level
 ### Normative Sections
 - Normative Sections contain the imposed requirements of an Instruction Set Architecture Level
@@ -27,10 +21,8 @@ Part: Midterms
 # INSTRUCTION ARCHITECTURE  DESIGN
 ---
 ## Backwards Compatibility
-> [!note]
-> Backwards Compatibility is a **massive consideration** when designing new machines or architectures
-
 - **Backwards Compatibility** is the ability of an architecture to run or use software or hardware from the past.
+	-  Backwards Compatibility is a *massive consideration* when designing new machines or architectures
 ## Characteristics of a Good ISA
 - The Two Primary Factors that makes a good Instruction Set Architecture or ISA are the following:
 	1. ISA can be implemented efficiently in current and future technologies which results in cost-effective designs over several generations
