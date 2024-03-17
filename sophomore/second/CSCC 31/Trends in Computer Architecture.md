@@ -28,16 +28,21 @@ Part: Midterms
 ### TDP for Cooling Systems
 - Cooling Systems are usually designed to match the Thermal Design Power or TDP of a computer system
 ## Energy Efficiency
-### Power
+### Power or Power  Consumption
 - Power refers to the amount electricity that is needed to power or operate a computer system
 - Power Consumption is useful for setting constraints when designing a computer system
-### Energy
+$$ \textbf{power} = \frac{energy}{unit\; of \; time}$$
+### Energy or Energy Consumption
 - Energy refers to the amount of electricity used by the computer system in a given amount of time
 - Energy Consumption is useful for comparing the efficiency between different computer systems.
-
+$$ \textbf{energy\; consumption} = average\; power\; x \; execution\; time$$
+### Assumptions on Large Servers and Cloud
+- Large Servers and Cloud are assumed to have an infinite workload
 # COST
 ---
 ## Learning Curve
 - Learning Curve is a phenomenon in which manufacturing costs decrease over time.
 ## Yield
 - Yield refers the percentage of manufactured devices that survive testing procedures.
+## Wafer
+- 
