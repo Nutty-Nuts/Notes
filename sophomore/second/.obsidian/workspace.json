@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIST 3/Republic Act No. 1425.md",
+                "file": "HIST 3/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIST 3/Republic Act No. 1425.md",
+                "file": "HIST 3/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIST 3/Republic Act No. 1425.md",
+                "file": "HIST 3/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIST 3/Republic Act No. 1425.md"
+                "file": "HIST 3/Introduction.md"
               }
             }
           }
@@ -171,9 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3c46967b8d35603",
+  "active": "428aee433274d47d",
   "lastOpenFiles": [
-    "HIST 3/Chapter 1 - Introduction.md",
+    "TRASH",
+    "TRASH/Republic Act No. 1425.md",
+    "HIST 3/Introduction.md",
+    "TRASH/Chapter 1 - Introduction.md",
     "Computer SyWhat are the advantages of using assembly language?stems.md",
     "CSCC 31/Benchmarking.md",
     "CSCC 31/Computer Systems.md",
@@ -188,7 +191,6 @@
     "ENGL 5/Modes of Communication.md",
     "ENGL 5/Effective Communication.md",
     "ENGL 5/Why Emojis Don't Say Enough.md",
-    "HIST 3/Republic Act No. 1425.md",
     "HIST 3",
     "CSCC 31/Digital Logic Level.md",
     "CSCC 31",
