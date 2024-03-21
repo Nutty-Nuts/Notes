@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "05acdc6373b89741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HIST 3/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8c1e4c1857d9a6ad",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3c46967b8d35603",
+  "active": "05acdc6373b89741",
   "lastOpenFiles": [
+    "HIST 3/Introduction.md",
     "TRASH/Chapter 1 - Introduction.md",
     "HIST 3/Chapter 1.md",
-    "HIST 3/Introduction.md",
     "TRASH",
     "TRASH/Republic Act No. 1425.md",
     "Computer SyWhat are the advantages of using assembly language?stems.md",
