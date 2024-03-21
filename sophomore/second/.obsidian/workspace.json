@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCC 31/Benchmarking.md",
+                "file": "HIST 3/Republic Act No. 1425.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc12b69a08207993",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/Benchmarking.md",
+                "file": "HIST 3/Republic Act No. 1425.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/Benchmarking.md",
+                "file": "HIST 3/Republic Act No. 1425.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/Benchmarking.md"
+                "file": "HIST 3/Republic Act No. 1425.md"
               }
             }
           }
@@ -174,12 +173,13 @@
   },
   "active": "e3c46967b8d35603",
   "lastOpenFiles": [
+    "HIST 3/Chapter 1 - Introduction.md",
+    "Computer SyWhat are the advantages of using assembly language?stems.md",
+    "CSCC 31/Benchmarking.md",
     "CSCC 31/Computer Systems.md",
     "CSCC 31/Memory Hierarchy.md",
-    "Computer SyWhat are the advantages of using assembly language?stems.md",
     "CSCC 31/Instruction Set Architecture.md",
     "CSCC 31/OS Assembly Language.md",
-    "CSCC 31/Benchmarking.md",
     "CSCC 31/Microarchitecture Design.md",
     "CSCC 31/Trends in Computer Architecture.md",
     "CSCC 31/Introduction to Computer Organization.md",
@@ -189,7 +189,6 @@
     "ENGL 5/Effective Communication.md",
     "ENGL 5/Why Emojis Don't Say Enough.md",
     "HIST 3/Republic Act No. 1425.md",
-    "HIST 3/Chapter 1 - Introduction.md",
     "HIST 3",
     "CSCC 31/Digital Logic Level.md",
     "CSCC 31",
