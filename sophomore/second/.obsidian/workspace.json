@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCC 31/Computer Systems.md",
+                "file": "CSCC 31/Benchmarking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 31/Memory Hierarchy.md",
+                "file": "CSCC 31/Benchmarking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 31/Memory Hierarchy.md",
+                "file": "CSCC 31/Benchmarking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 31/Memory Hierarchy.md"
+                "file": "CSCC 31/Benchmarking.md"
               }
             }
           }
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efd1521444efd217",
+  "active": "e3c46967b8d35603",
   "lastOpenFiles": [
     "CSCC 31/Computer Systems.md",
     "CSCC 31/Memory Hierarchy.md",
