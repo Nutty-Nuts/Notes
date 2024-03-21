@@ -29,6 +29,8 @@ Part: Midterms
 ## Teodora Alonso's Imprisonment
 - Teodoro Alonso was arrested and imrisoned for being accussed of a crime she did not commit.
 	- She was acquited of her crimes after 2 and 1/2 years in prison
+## Ferdinand VII's Decree
+- Ferdinand VII's Decree demanded that the Galleon Trade should cease operations
 
 # PEOPLE
 ---
@@ -39,7 +41,15 @@ Part: Midterms
 ## Inquilino
 - Inquilino is one who leases or rents portions of land from a land owner and uses these for either agriculture or the raising of live stock
 ## Gobernadorcillo
-- 
+- Gobernadorcillo is a role of an individual in a pueblo that is akin to mayor, leader, or chief
+## Peninsulares
+- Penunsulares are Pure Blooded Spaniards who were born in Spain but migrated to a Spanish Colony
+## Mestizo
+- Mestizo refers to a person with a European Ancestry mixed with Non-European Blood
+## Chinese Mestizo 
+- Chinese Mestizo refers to a person that has both Filipino and Chinese Blood (in the context of the Philippines)
+## Indios Pintados
+- Indios Pintados is what the Spaniard Settlers called the Visayans due to their extensive use of face and body paint or tattos
 
 # PLACES
 ---
@@ -58,3 +68,5 @@ Part: Midterms
 - Liberalism is a political philosophy based on belief in progress, the essential goodness of the human race, and the autonomy of the invidual standing for the protection of political and civil liberties
 ## Obscurantism
 - Obscurantism is the opposition to the spread of knowledge
+## Drawinism
+- Drawinism is a theory that inherent dynamic forces allow only the fittest persons or organizations to prosper in a competitive environment

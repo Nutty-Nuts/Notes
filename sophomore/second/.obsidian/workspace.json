@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIST 3/Chapter 1.md",
+                "file": "HIST 3/Chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIST 3/Chapter 1.md",
+                "file": "HIST 3/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIST 3/Chapter 1.md",
+                "file": "HIST 3/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIST 3/Chapter 1.md"
+                "file": "HIST 3/Chapter 2.md"
               }
             }
           }
@@ -173,9 +173,10 @@
   },
   "active": "05acdc6373b89741",
   "lastOpenFiles": [
+    "HIST 3/Chapter 1.md",
+    "HIST 3/Chapter 2.md",
     "HIST 3/Introduction.md",
     "TRASH/Chapter 1 - Introduction.md",
-    "HIST 3/Chapter 1.md",
     "TRASH",
     "TRASH/Republic Act No. 1425.md",
     "Computer SyWhat are the advantages of using assembly language?stems.md",
