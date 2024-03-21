@@ -26,13 +26,20 @@ Part: Midterms
 - Gomborza was an event during the Spanish Colonial Period where three Filipino priests were executed namely: Gomez, Burgos, and Zamora
 ## Industrial Revolution
 - Industrial Revolution was an event characterized by the industrialization of citites and society. It also increased the demand of agricultural produce which bolstered the economy of Colonial Philippines and allowed Filipinos, to a degree, become wealthy.
+## Teodora Alonso's Imprisonment
+- Teodoro Alonso was arrested and imrisoned for being accussed of a crime she did not commit.
+	- She was acquited of her crimes after 2 and 1/2 years in prison
 
 # PEOPLE
 ---
 ## Principalia
 - Principalias were Filipinos in a pueblo that has a massed large sums of wealth and are able to enjoy many privelleges, one of which was Education
 ## Illustrados
-
+- Illustrados were wealthy Filipinos who were well educated and fought for reforms in the Philippines
+## Inquilino
+- Inquilino is one who leases or rents portions of land from a land owner and uses these for either agriculture or the raising of live stock
+## Gobernadorcillo
+- 
 
 # PLACES
 ---
@@ -47,3 +54,7 @@ Part: Midterms
 ---
 ## Rizal
 - Rizal, originally Ricial, was the new surname adopted by Francisco Mercado and meant Green Fields
+## Liberalism
+- Liberalism is a political philosophy based on belief in progress, the essential goodness of the human race, and the autonomy of the invidual standing for the protection of political and civil liberties
+## Obscurantism
+- Obscurantism is the opposition to the spread of knowledge
