@@ -25,6 +25,8 @@ Part: Midterms
 - Kruskal's MST Algorithm is an algorithm that can create minimum spanning trees by growing a tree edge-by-edge starting with the edge with the smallest weight
 ### Dijkstra's SSSP Algorithm
 - Dijkstra's SSSP Algorithm is an algorithm that finds the shortest paths between nodes in a weighted graph
+	- The complexity for this algorithm is $O(|V|^2)$ for weight matrix representation of graph and array implementation of priority queue
+	- The complexity for this algorithm is $O(|E|\; log\; |V|)$ for adjacency list representation of graph with $n$ vertices and $m$ edges and min-heap implementation of priority queue 
 
 ## Approximations using Greedy Algorithm
 - The problems that a greedy algorithm can only produce an approximation are the following:

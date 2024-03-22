@@ -11,6 +11,15 @@ Part: Midterms
 	- Solve smaller instances recursively
 	- Obtain solution to original instance by combining these solutions
 
+## General Divide and Conquer Recurrence
+- The General Divide and Conquer Recurrence are the following:
+	- $T(n) = a\; \cdot \;T(n/b) +f(n)$ where $f(n) = I(n^d), d \ge 0$
+### Master Theorem
+- The master theorem for the General Divide and Conquer Recurrence are the following:
+	- if $a < b^d$, then $T(n) = O(n^d)$
+	- if $a = b^d$, then $T(n) = O(n^d\; log\; n)$
+	- if $a > b^d$, then $T(n) = O(n^{log_b\; a})$
+
 ## Examples of Divide and Conquer Algorithms
 - Examples of divide and conquer algorithms are the following:
 	- Mergesort
