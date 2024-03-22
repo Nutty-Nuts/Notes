@@ -35,3 +35,20 @@ Part: Midterms
 
 ## Constitution of Cadiz
 - Constitution of Cadiz stated that all colonies of Spain are officially a province of Spain
+
+# PHILOSOPHIES
+---
+## Rizal's Philosophies
+---
+### Rizal's Early Concept of Patriotism
+- Rizal's Early Concept of Patriotism was a love for Spain because at the time, he believed that the Philippines and Spain were one and the same
+### Rizal's Matured Concept of Patriotism
+- Instead of a love for Spain, Rizal focused his love towards his homeland, the Philippines, and its people
+
+
+# MYTHOLOGY
+---
+## Favonius
+- Favonius is the personification of the west wind in Roman Mythology
+## Notus
+- Notus is the Greek god of the south wind
