@@ -6,4 +6,4 @@ Part: Midterms
 ---
 # RECURSIVE BACKTRACKING
 ---
-- Recursive Backtracking is a technique 
+- Recursive Backtracking is the ability of an algorithm to revert back to a previous state or path when the current path does not produce a viable solution
