@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 13/Dynamic Programming.md",
+                "file": "CSCC 13/Greedy Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 13/Dynamic Programming.md",
+                "file": "CSCC 13/Greedy Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 13/Dynamic Programming.md"
+                "file": "CSCC 13/Greedy Algorithms.md"
               }
             }
           }
@@ -220,13 +220,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03dcbebf1568b09f",
+  "active": "ebc4230337cbb981",
   "lastOpenFiles": [
+    "CSCC 13/Brute Force Algorithms.md",
     "CSCC 13/Dynamic Programming.md",
     "CSCC 13/Recursive Backtracking.md",
     "CSCC 13/Divide and Conquer Algorithms.md",
     "CSCC 13/Greedy Algorithms.md",
-    "CSCC 13/Brute Force Algorithms.md",
     "TRASH/Brute Force Algorithm.md",
     "CSCC 13/Computational and Asymptotic Complexity.md",
     "TRASH/Chapter 1 - Introduction.md",
