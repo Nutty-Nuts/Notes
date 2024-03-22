@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3c46967b8d35603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HIST 3/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05acdc6373b89741",
             "type": "leaf",
             "state": {
@@ -44,12 +32,12 @@
             }
           },
           {
-            "id": "8c1e4c1857d9a6ad",
+            "id": "9aee2a49de602cee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRASH/Chapter 1 - Introduction.md",
+                "file": "CSCC 13/Brute Force Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 13/Computational and Asymptotic Complexity.md",
+                "file": "CSCC 13/Brute Force Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 13/Computational and Asymptotic Complexity.md",
+                "file": "CSCC 13/Brute Force Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 13/Computational and Asymptotic Complexity.md"
+                "file": "CSCC 13/Brute Force Algorithms.md"
               }
             }
           }
@@ -184,17 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7f7486812b7b013",
+  "active": "9aee2a49de602cee",
   "lastOpenFiles": [
-    "TRASH/Computational and Asymptotic Complexity.md",
+    "TRASH/Brute Force Algorithm.md",
+    "CSCC 13/Brute Force Algorithms.md",
     "CSCC 13/Computational and Asymptotic Complexity.md",
+    "TRASH/Chapter 1 - Introduction.md",
+    "TRASH/Computational and Asymptotic Complexity.md",
     "CSCC 13/Introduction to Algorithms.md",
-    "CSCC 13/Brute Force Algorithm.md",
     "HIST 3/Chapter 3.md",
     "HIST 3/Chapter 2.md",
     "HIST 3/Chapter 1.md",
     "HIST 3/Introduction.md",
-    "TRASH/Chapter 1 - Introduction.md",
     "TRASH",
     "TRASH/Republic Act No. 1425.md",
     "TRASH/Computer SyWhat are the advantages of using assembly language?stems.md",
@@ -215,7 +204,6 @@
     "CSCC 31/Digital Logic Level.md",
     "CSCC 31",
     "CSCC 13",
-    "CC 15/Introduction to Application Development.md",
     "CC 15",
     "ENGL 5"
   ]
