@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRASH/Computational and Asymptotic Complexity.md",
+                "file": "CSCC 13/Introduction to Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCC 13/Brute Force Algorithms.md",
+                "file": "CSCC 31/Instruction Level Parallelism.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCC 13/Divide and Conquer Algorithms.md",
+                "file": "CSCC 31/Instruction Level Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCC 13/Divide and Conquer Algorithms.md",
+                "file": "CSCC 31/Instruction Level Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCC 13/Divide and Conquer Algorithms.md"
+                "file": "CSCC 31/Instruction Level Parallelism.md"
               }
             }
           }
@@ -220,18 +220,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c72cb889ce7f0036",
+  "active": "9aee2a49de602cee",
   "lastOpenFiles": [
-    "CSCC 13/Greedy Algorithms.md",
     "CSCC 13/Brute Force Algorithms.md",
-    "CSCC 13/Dynamic Programming.md",
-    "CSCC 13/Recursive Backtracking.md",
-    "CSCC 13/Divide and Conquer Algorithms.md",
-    "TRASH/Brute Force Algorithm.md",
+    "CSCC 31/Instruction Level Parallelism.md",
     "CSCC 13/Computational and Asymptotic Complexity.md",
-    "TRASH/Chapter 1 - Introduction.md",
-    "TRASH/Computational and Asymptotic Complexity.md",
     "CSCC 13/Introduction to Algorithms.md",
+    "TRASH/Computational and Asymptotic Complexity.md",
+    "CSCC 13/Dynamic Programming.md",
+    "CSCC 13/Divide and Conquer Algorithms.md",
+    "CSCC 13/Greedy Algorithms.md",
+    "CSCC 13/Recursive Backtracking.md",
+    "TRASH/Brute Force Algorithm.md",
+    "TRASH/Chapter 1 - Introduction.md",
     "HIST 3/Chapter 3.md",
     "HIST 3/Chapter 2.md",
     "HIST 3/Chapter 1.md",
@@ -248,7 +249,6 @@
     "CSCC 31/Trends in Computer Architecture.md",
     "CSCC 31/Introduction to Computer Organization.md",
     "ENGL 5/Multicultural Communication.md",
-    "ENGL 5/Oral Presentation in the Workplace.md",
     "HIST 3",
     "CSCC 31",
     "CSCC 13",

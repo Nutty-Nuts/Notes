@@ -13,7 +13,7 @@ Part: Midterms
 
 ## General Divide and Conquer Recurrence
 - The General Divide and Conquer Recurrence are the following:
-	- $T(n) = a\; \cdot \;T(n/b) +f(n)$ where $f(n) = I(n^d), d \ge 0$
+	- $T(n) = a\; \cdot \;T(n/b) +f(n)$ where $f(n) = O(n^d), d \ge 0$
 ### Master Theorem
 - The master theorem for the General Divide and Conquer Recurrence are the following:
 	- if $a < b^d$, then $T(n) = O(n^d)$
