@@ -41,11 +41,45 @@ Part: Semi-Finals
 	- Introduction of the story of Sisa and Basilio
 	- Filosofo Taiso's Philisophies and Beliefs about Religion and Society
 ### Part 3: Town Life
+- Important Events in this part of Noli can be summarized in the following points:
+	- Foreshadowing of the abuse and death of Basilio's brother, Crispin
+	- The schoolhouse project of Ibarra
+	- Sisa's search for her missing son, Crispin
+	- The reveation of Padre Salvi's rotten character
+	- The removal of the remains of Ibarra's Father from the cemetery
+	- Life in San Diego
 ### Part 4: The Fiesta
+- Important Events in this part of Noli can be summarized in the following points:
+	- Ibarra consults Filosofo Taiso on his school house project
+	- Appearance of Sisa
+	- Padre Damaso's Sermon
+	- An "accident" during the ceremony of the school house which nearly took Ibarra's life 
 ### Part 5: The Friars and the Guardia Civil versus the Governor-General and Good Citizens
+- Important Events in this part of Noli can be summarized in the following points:
+	- Elias reveals to Ibarra that the accident was orchestrated by his family's enemies
+	- Padre Damaso provokes Ibarra which prompts Ibarra to almost murder Padre Damaso
+	- The visitation of the Governor-General and his wife, Dona Consolacion
+	- The festival of San Diego and the performance of the moro-moro
+	- Sisa's abuse and torture by the hands of Dona Consolacion
 ### Part 6: Conspiracies Serious and Ham-Fisted
+- Important Events in this part of Noli can be summarized in the following points:
+	- Elias visits Ibarra and tries to convince him to join the cause of the tulisanes
+	- Lucas visits Ibarra and demands payment for his brother's death during the accident
+	- Espadanas and Dona Victoria
+	- Maria Clara's search for a new husband
+	- Padre Salvi's lust for Maria Clara
+	- Introduction or Foreshadowing of the Rebellion
 ### Part 7: Mock Rebellion
+- Important Events in this part of Noli can be summarized in the following points:
+	- Maria Clara and Linares are about to be married with each other
+	- Reveal of the Plotters of the rebellion along with their motivations
+	- The clumsy and amateurish execution of the Rebellion
+	- The true purpose of the rebellion, to implicate Ibarra. (It is implied that Padre Salvi orchestrated the rebellion)
 ### Part 8: Ibarra's Fight
+- Important Events in this part of Noli can be summarized in the following points:
+	- Horrendous torture of the rebels who participated in the rebellion and the accusation of the innocent
+	- 
+
 ## The Characters of Noli
 ## The Themes of Noli
 ## The Narrator of Noli
