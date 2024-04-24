@@ -31,10 +31,10 @@ Part: Semi-Finals
 	2. Races only exist for anthropologists; for the observer of the life of peoples, there is nothing but social strata, distinguished only by their level of sophistication
 	3. Intelligent people today are such by a long process of heredity and struggle and intelligence was not inherent
 	4. The poor estimation of nonwhites by Europeans comes from the sort of nonwhites with whom they are most in contact
+- Jose Rizal believed that Anthropology can be used as a weapon to fight against Spanish racism
 ## Rizal's Change of Perspective About a Nation
 - During Jose Rizal's studies on anthropology, Jose Rizal began to study the importance culture in the formation of a nation.
 - Jose Rizal also realized that history and culture are important components of nation
-
 ## Rizal's Request to Blumentritt
 - Jose Rizal requested Ferdinand Blumentritt to write the complete history of the Philippines from an impartial point of view
 	- Ferdinand Blumentritt declined Jose Rizal's request
@@ -46,6 +46,13 @@ Part: Semi-Finals
 	- Atonio de Morga resigned from his position to join the Audiencia
 	- Atonio de Morga wrote the Sucesos de las Islas Filipinas
 ## Sucesos de las Islas Filipinas
+- Sucses de las Islas Filipinas was an account of the major events during the administrations of the first eleven governer-generals and describes the Philippine natives at the time of Spanish contact
+- Sucsesos de las Filipinas was used by Jose Rizal to learn more about the history and culture of the Philippines
+	- Despite the credible accounts, Jose Rizal tend to draw more from imagination than on actual eidencep
+
+## Rizal's Pre-Spanish Golden Age
+- Jose Rizal attempted to find or fabricated a history of the Philippines where there was a Golden Age that was corrupted by Spaniards
+	- But, Jose Rizal had no evidence to backup his claims
 # RIZAL AND ISABELO DE LOS REYES
 ---
 # THE PHILIPPINES WITHIN A CENTURY
