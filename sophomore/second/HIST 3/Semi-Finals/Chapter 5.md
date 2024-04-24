@@ -49,12 +49,15 @@ Part: Semi-Finals
 - Sucses de las Islas Filipinas was an account of the major events during the administrations of the first eleven governer-generals and describes the Philippine natives at the time of Spanish contact
 - Sucsesos de las Filipinas was used by Jose Rizal to learn more about the history and culture of the Philippines
 	- Despite the credible accounts, Jose Rizal tend to draw more from imagination than on actual eidencep
-
 ## Rizal's Pre-Spanish Golden Age
 - Jose Rizal attempted to find or fabricated a history of the Philippines where there was a Golden Age that was corrupted by Spaniards
 	- But, Jose Rizal had no evidence to backup his claims
 # RIZAL AND ISABELO DE LOS REYES
 ---
+## Isabelo de los Reyes
+- Isabelo de los Reyes criticized Jose Rizal for being blindsided in documenting history due to his political passion
+- Isabelo de los Reyes used folklore and local culture to form a nation
+- Isabelo de los Reyes was an Ilocano scholar who celebrated his provincial and ethnic origins as an Ilocano
 # THE PHILIPPINES WITHIN A CENTURY
 ---
 # ON THE INDOLENCE OF THE FILIPINOS
