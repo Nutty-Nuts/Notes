@@ -78,9 +78,24 @@ Part: Semi-Finals
 ### Part 8: Ibarra's Fight
 - Important Events in this part of Noli can be summarized in the following points:
 	- Horrendous torture of the rebels who participated in the rebellion and the accusation of the innocent
-	- 
+	- Ibarra is convicted on the basis of his two leaked letters
+	- Ibarra escapes prison with the help of Elias and meets with Maria Clara
+	- Maria Clara reveals that she leaked the letters so that she could find the truth about her mother
+	- Revelation of Padre Damaso being Maria Clara's father and that she was almost aborted by her mother
+	- Maria Clara decides to join the convent
+	- Sisa dies in Basilio's arms
+	- Elias gives his fortune to Basilio
 
 ## The Characters of Noli
+- The characters in Noli me Tangere simply represent groups of people within Philippine Society in the Colonial Period
+### Maria Clara and Crisostomo Ibarra
+- Maria Clara and Ibarra is possibly a symbol Philippines which represents the hybrid culture of a Filipino
+### Maria Clara
+- Maria Clara is a symbol of the Philippines that represents Filipinos that were educated under the convent or the church
+- Maria Clara also represents traditionalism and conservatism
+### Crisostomo Ibarra
+- Ibarra is a symbol of the Philippines that represents Filipinos that were educated through secular institutions
+- Cris
 ## The Themes of Noli
 ## The Narrator of Noli
 
