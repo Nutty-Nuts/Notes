@@ -16,6 +16,7 @@ Part: Semi-Finals
 # THE MEANING OF THE NOLI ME TANGERE
 ---
 ## The Dedication to the Philippines
+- The Dedication to the Philippines in Noli me Tangere is the Exposing
 ## The Epigraph
 ## The Plot of Noli
 ---
