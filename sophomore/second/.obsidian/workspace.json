@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md",
+                "file": "HIST 3/Semi-Finals/Chapter 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc12b69a08207993",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md",
+                "file": "HIST 3/Semi-Finals/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md",
+                "file": "HIST 3/Semi-Finals/Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md"
+                "file": "HIST 3/Semi-Finals/Chapter 4.md"
               }
             }
           }
@@ -149,6 +148,16 @@
   },
   "active": "4ffd09931c975e4f",
   "lastOpenFiles": [
+    "HIST 3/Semi-Finals/Chapter 6.md",
+    "HIST 3/Semi-Finals/Chapter 5.md",
+    "CSCC 31/Microarchitecture Design.md",
+    "HIST 3/Finals",
+    "HIST 3/Untitled 1.md",
+    "HIST 3/Midterms",
+    "HIST 3/Preliminary",
+    "HIST 3/Untitled.md",
+    "HIST 3/Semi-Finals",
+    "HIST 3/Semi-Finals/Chapter 4.md",
     "ENGL 5/Writing Business Letter.md",
     "CSCC 31/Instruction Level Parallelism.md",
     "CSCC 13/Greedy Algorithms.md",
@@ -161,21 +170,15 @@
     "CSCC 13/Divide and Conquer Algorithms.md",
     "TRASH/Brute Force Algorithm.md",
     "TRASH/Chapter 1 - Introduction.md",
-    "HIST 3/Chapter 3.md",
-    "HIST 3/Chapter 2.md",
-    "HIST 3/Chapter 1.md",
-    "HIST 3/Introduction.md",
+    "HIST 3/Midterms/Chapter 3.md",
+    "HIST 3/Preliminary/Chapter 2.md",
+    "HIST 3/Preliminary/Chapter 1.md",
+    "HIST 3/Preliminary/Introduction.md",
     "TRASH",
     "TRASH/Republic Act No. 1425.md",
     "TRASH/Computer SyWhat are the advantages of using assembly language?stems.md",
     "CSCC 31/Benchmarking.md",
     "CSCC 31/Computer Systems.md",
-    "CSCC 31/Memory Hierarchy.md",
-    "CSCC 31/Instruction Set Architecture.md",
-    "CSCC 31/OS Assembly Language.md",
-    "CSCC 31/Microarchitecture Design.md",
-    "CSCC 31/Trends in Computer Architecture.md",
-    "CSCC 31/Introduction to Computer Organization.md",
     "HIST 3",
     "CSCC 31",
     "CSCC 13",
