@@ -90,12 +90,20 @@ Part: Semi-Finals
 - The characters in Noli me Tangere simply represent groups of people within Philippine Society in the Colonial Period
 ### Maria Clara and Crisostomo Ibarra
 - Maria Clara and Ibarra is possibly a symbol Philippines which represents the hybrid culture of a Filipino
+- Ibarra's love for Maria Clara is a symbol of the liberal Filipino's desire to enlighten the traditional Filipino
 ### Maria Clara
 - Maria Clara is a symbol of the Philippines that represents Filipinos that were educated under the convent or the church
 - Maria Clara also represents traditionalism and conservatism
+- Maria Clara also represents the best of Christian Values such as her generousity, compassion, and kindness
 ### Crisostomo Ibarra
 - Ibarra is a symbol of the Philippines that represents Filipinos that were educated through secular institutions
-- Cris
+- Crisostomo Ibarra also represents liberalism
+- Crisostomo Ibarra also represents the best of liberal values but lack human warmth
+### Friars
+- The Friars are a symbol of the opposition to improve the education of the Filipinos
+### Sisa
+- Sisa represents the cruelty and abuse faced by Filipinos who live in poverty
+- Sisa also represents the silent suffering of the Filipinos
 ## The Themes of Noli
 ## The Narrator of Noli
 
