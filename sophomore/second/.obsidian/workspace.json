@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIST 3/Semi-Finals/Chapter 4.md",
+                "file": "HIST 3/Semi-Finals/Chapter 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIST 3/Semi-Finals/Chapter 4.md",
+                "file": "HIST 3/Semi-Finals/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIST 3/Semi-Finals/Chapter 4.md",
+                "file": "HIST 3/Semi-Finals/Chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIST 3/Semi-Finals/Chapter 4.md"
+                "file": "HIST 3/Semi-Finals/Chapter 5.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4ffd09931c975e4f",
   "lastOpenFiles": [
+    "HIST 3/Semi-Finals/Chapter 4.md",
     "HIST 3/Semi-Finals/Chapter 6.md",
     "HIST 3/Semi-Finals/Chapter 5.md",
     "CSCC 31/Microarchitecture Design.md",
@@ -157,7 +158,6 @@
     "HIST 3/Preliminary",
     "HIST 3/Untitled.md",
     "HIST 3/Semi-Finals",
-    "HIST 3/Semi-Finals/Chapter 4.md",
     "ENGL 5/Writing Business Letter.md",
     "CSCC 31/Instruction Level Parallelism.md",
     "CSCC 13/Greedy Algorithms.md",
