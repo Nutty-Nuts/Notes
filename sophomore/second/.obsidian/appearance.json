@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Roboto",
+  "monospaceFontFamily": "Roboto Mono",
+  "enabledCssSnippets": [
+    "columns"
+  ],
+  "theme": "moonstone"
+}
