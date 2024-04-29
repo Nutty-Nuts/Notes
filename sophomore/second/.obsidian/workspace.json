@@ -23,8 +23,12 @@
             "id": "fef27b8887c86f5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ENGL 5/Academic Writing vs Technical Writing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ENGL 5/Academic Writing vs Technical Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ENGL 5/Academic Writing vs Technical Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ENGL 5/Academic Writing vs Technical Writing.md"
+              }
             }
           }
         ]
@@ -154,6 +162,7 @@
   },
   "active": "fef27b8887c86f5f",
   "lastOpenFiles": [
+    "ENGL 5/Academic Writing vs Technical Writing.md",
     "ENGL 5/Writing Business Letter.md",
     "HIST 3/Semi-Finals/Chapter 5.md",
     "HIST 3/Semi-Finals/Chapter 4.md",
@@ -184,7 +193,6 @@
     "TRASH/Republic Act No. 1425.md",
     "TRASH/Computer SyWhat are the advantages of using assembly language?stems.md",
     "CSCC 31/Benchmarking.md",
-    "CSCC 31/Computer Systems.md",
     "HIST 3",
     "CSCC 31",
     "CSCC 13",
