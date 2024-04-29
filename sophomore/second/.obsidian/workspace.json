@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fef27b8887c86f5f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ENGL 5/Writing Business Letter.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ffd09931c975e4f",
+  "active": "fef27b8887c86f5f",
   "lastOpenFiles": [
+    "ENGL 5/Writing Business Letter.md",
     "HIST 3/Semi-Finals/Chapter 5.md",
     "HIST 3/Semi-Finals/Chapter 4.md",
     "HIST 3/Semi-Finals/Chapter 6.md",
@@ -159,7 +165,6 @@
     "HIST 3/Preliminary",
     "HIST 3/Untitled.md",
     "HIST 3/Semi-Finals",
-    "ENGL 5/Writing Business Letter.md",
     "CSCC 31/Instruction Level Parallelism.md",
     "CSCC 13/Greedy Algorithms.md",
     "CSCC 13/Recursive Backtracking.md",
