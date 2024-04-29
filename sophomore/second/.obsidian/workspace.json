@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5313d002ebab3147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGL 5/Making an Effective Resume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGL 5/Academic Writing vs Technical Writing.md",
+                "file": "ENGL 5/Making an Effective Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGL 5/Academic Writing vs Technical Writing.md",
+                "file": "ENGL 5/Making an Effective Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGL 5/Academic Writing vs Technical Writing.md"
+                "file": "ENGL 5/Making an Effective Resume.md"
               }
             }
           }
@@ -160,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fef27b8887c86f5f",
+  "active": "5313d002ebab3147",
   "lastOpenFiles": [
+    "ENGL 5/Making an Effective Resume.md",
     "ENGL 5/Academic Writing vs Technical Writing.md",
     "ENGL 5/Writing Business Letter.md",
     "HIST 3/Semi-Finals/Chapter 5.md",
@@ -192,7 +205,6 @@
     "TRASH",
     "TRASH/Republic Act No. 1425.md",
     "TRASH/Computer SyWhat are the advantages of using assembly language?stems.md",
-    "CSCC 31/Benchmarking.md",
     "HIST 3",
     "CSCC 31",
     "CSCC 13",

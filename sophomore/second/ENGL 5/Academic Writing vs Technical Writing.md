@@ -60,7 +60,21 @@ Part: Semi-Finals
 		- Bullets
 		- Underlines
 		- Bold Type
-	4. White space
+	4. White Space
 	5. Illustrations 
 		- Graphs
-		- Ta
+		- Tables
+		- Pictures
+		- Drawings
+### Language 
+- The **Language used in Technical Writing in Terms of Words** have the following characteristics:
+	1. Active Vocabulary (Plain, Easily Understood)
+	2. Objective
+	3. Non-Sexist (Racist?)
+	4. Avoid Pronouns
+- The **Language used in Technical Writing in Terms of Sentences** have the following characteristics:
+	1. Uncomplicated
+	2. Repetition
+	3. Active Voice
+## Conclusion
+- Technical Writing is used to communicated in clear straightforward vocabulary and sentence structure to convey information
