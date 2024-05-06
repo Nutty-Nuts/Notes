@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGL 5/Making an Effective Resume.md",
+                "file": "ENGL 5/Writing Business Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGL 5/Making an Effective Resume.md",
+                "file": "ENGL 5/Writing Business Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGL 5/Making an Effective Resume.md"
+                "file": "ENGL 5/Writing Business Letter.md"
               }
             }
           }
@@ -172,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5313d002ebab3147",
+  "active": "4ffd09931c975e4f",
   "lastOpenFiles": [
     "ENGL 5/Making an Effective Resume.md",
     "ENGL 5/Academic Writing vs Technical Writing.md",
