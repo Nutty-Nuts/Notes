@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md",
+                "file": "CSCC 31/Instruction Level Parallelism.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc12b69a08207993",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md",
+                "file": "CSCC 31/Instruction Level Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md",
+                "file": "CSCC 31/Instruction Level Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGL 5/Writing Business Letter.md"
+                "file": "CSCC 31/Instruction Level Parallelism.md"
               }
             }
           }
@@ -173,9 +172,9 @@
   },
   "active": "4ffd09931c975e4f",
   "lastOpenFiles": [
+    "ENGL 5/Writing Business Letter.md",
     "ENGL 5/Making an Effective Resume.md",
     "ENGL 5/Academic Writing vs Technical Writing.md",
-    "ENGL 5/Writing Business Letter.md",
     "HIST 3/Semi-Finals/Chapter 5.md",
     "HIST 3/Semi-Finals/Chapter 4.md",
     "HIST 3/Semi-Finals/Chapter 6.md",
